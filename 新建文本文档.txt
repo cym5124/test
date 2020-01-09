@@ -4,7 +4,6 @@
 516464654
 1655641653216312
 5566
-888888
 456464
 fffffffffff
 dsgasdsafsa
@@ -12,8 +11,4 @@ dsgasdsafsa
 qwessf
 asfasf
 11234567
-<<<<<<< HEAD
 5555
-=======
-
->>>>>>> d8462fd3060c1d98b0e1a6883b06482948992b89
